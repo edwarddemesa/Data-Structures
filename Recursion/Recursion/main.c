@@ -1,3 +1,10 @@
+/******************************************************************************
+
+Author: Edward DeMesa
+Title: Recursion Code -- YouTube Tutorial Series
+
+******************************************************************************/
+
 #include <stdio.h>
 #include <stdlib.h>
 
